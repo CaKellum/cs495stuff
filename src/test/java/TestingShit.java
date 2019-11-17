@@ -12,6 +12,6 @@ public class TestingShit {
 
     @Test
     public void failingShit(){
-        Assertions.assertEquals(StupidShit.add(100,100), 50);
+        Assertions.assertEquals(StupidShit.add(100,100), 200);
     }
 }
